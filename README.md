@@ -1,6 +1,6 @@
 # Humanismo e Cultura Religiosa
 
--  Professor: Rodrigo Dutra
+-  Professor: Luis Evandro Hinrichsen
 -  Código: 11521-04
 -  Semestre: 2025/1
--  Nota: cursando
+-  Nota: 9.4
